@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "prop-types": "^15.8.1",
+    "react-hook-form": "^7.33.0",
+    "sweetalert": "^2.1.2"
+  }
+}
